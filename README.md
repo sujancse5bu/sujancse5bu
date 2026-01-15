@@ -7,15 +7,16 @@ I specialize in building **scalable APIs**, **secure authentication systems**, a
 
 ## 🛠️ Tech Stack
 
+### Languages
+- TypeScript, Dart, Golang
+
 ### Backend & APIs
-- Node.js, Express.js, NestJS
+- Node.js, Express.js, NestJS, Loopback API
 - REST APIs, WebSockets
 - MongoDB, MySQL, PostgreSQL, DynamoDB
-- Golang (working knowledge)
 
 ### Frontend
 - React.js, Next.js
-- TypeScript, JavaScript
 - Redux Toolkit, React Query
 - Material UI, Ant Design, Tailwind CSS, Bootstrap
 
@@ -35,60 +36,11 @@ I specialize in building **scalable APIs**, **secure authentication systems**, a
 ### **Software Engineer (Frontend)**  
 **Lyxa SAL** — Gulshan, Dhaka  
 📅 *July 2025 – Present*
-
-- Building responsive and user-friendly interfaces using **React**
-- Developing reusable components and efficient state management
-- Integrating REST APIs for smooth and intuitive user experiences
-
 ---
 
 ### **Software Engineer (Full Stack)**  
 **Flux IT** — Gulshan, Dhaka  
 📅 *May 2021 – June 2025*
-
-- Developed full-stack applications using **MERN Stack**
-- Built scalable backend services using **Express.js**
-- Worked with **MongoDB, PostgreSQL**, and **Docker**
-- Developed **Flutter** mobile applications
-- Managed **Linux servers**, VPS, and AWS EC2 instances
-
----
-
-## 🚀 Featured Projects
-
-### **SKIM LEGAL**
-**Tech:** Node.js, MongoDB, Pug  
-- Backend API development  
-- Frontend design and API integration  
-
----
-
-### **BIOVICA**
-**Tech:** React.js, Node.js, AWS Serverless  
-- API integration  
-- Automated medical report generation using **Puppeteer**
-
----
-
-### **ConnectivityWise**
-**Tech:** React.js, Node.js, AWS Cognito, HL7 MLLP  
-- Medical report management system  
-- Secure authentication & healthcare data communication
-
----
-
-### **LEARN GENIUS**
-**Tech:** React.js, Node.js, DynamoDB  
-- API development  
-- Frontend development and API integration
-
----
-
-### **UPFLEX**
-**Tech:** React.js, Node.js, PostgreSQL, Redis, Redux  
-- Implemented new promotions system  
-- Built token-based reservation workflow
-
 ---
 
 ## 🎯 What I Focus On
@@ -100,9 +52,8 @@ I specialize in building **scalable APIs**, **secure authentication systems**, a
 ---
 
 ## 📫 Connect With Me
-- GitHub: **@your-username**
-- LinkedIn: *(optional)*
-- Email: *(optional)*
+- GitHub: **@sujancse5bu**
+- Email: *sujanm.cse5.bu@gmail.com*
 
 ---
 
