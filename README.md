@@ -35,12 +35,12 @@ I specialize in building **scalable APIs**, **secure authentication systems**, a
 
 ### **Software Engineer (Frontend)**  
 **Lyxa SAL** — Gulshan, Dhaka  
-📅 *July 2025 – Present*
+- 📅 *July 2025 – Present*
 ---
 
 ### **Software Engineer (Full Stack)**  
 **Flux IT** — Gulshan, Dhaka  
-📅 *May 2021 – June 2025*
+- 📅 *May 2021 – June 2025*
 ---
 
 ## 🎯 What I Focus On
